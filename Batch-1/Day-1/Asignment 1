@@ -1,0 +1,28 @@
+Day 1 Assignment:
+
+1. What is your understanding of Blockchain?
+
+Ans- Blockchain basically is a chain of blocks connected to each other. It uses Distributed Database and Cryptography. Secure Hash Algorithm is used to encrypt.
+
+
+2. What is the core problem blockchain trying to solve?
+
+Ans- Blockchain tries to solve Authenticity , avoids hacking , makes data verifiable.
+
+3. What are the features that the blockchain will give you?
+
+Ans- Verifiable
+Unchangable
+Tamper-proof
+Immutable.
+
+4. What are all the things the block contains ?
+
+Ans- Block Number
+Transaction Records
+Previous Signature
+Miming Key
+
+5. How is the verifiability of blockchain can be achieved ?
+
+Ans- Keys are generated using hash algorithms and are matched for the group , it contains the data of previous hash , if the data is same , the key generated will be same else will be different. This can be achieved through verfiability.
